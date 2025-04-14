@@ -13,10 +13,6 @@
 
 - 📫 How to reach me **vineethjaisal14@gmail.com**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vineeth-jaisal)
-
-- 📄 Know about my experiences [My Resume](https://vineethjaisal.github.io/vineeth-portfolio)
-
 - ⚡ Fun fact **I can explain testbenches better than I can cook 🍝**
 
 ---
@@ -30,23 +26,9 @@
 ![UVM](https://img.shields.io/badge/-UVM-007ACC?style=flat)
 ![AXI](https://img.shields.io/badge/-AXI3-FF6F00?style=flat)
 
----
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vineeth-jaisal&show_icons=true&locale=en" alt="vineeth-jaisal" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vineeth-jaisal" alt="vineeth-jaisal" />
-</p>
-
----
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vineeth-jaisal)](https://linkedin.com/in/vineeth-jaisal)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/metaaivlsi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vineeth-jaisal)](https://www.linkedin.com/in/vineeth-jaisal-8b1308226/)
+
 

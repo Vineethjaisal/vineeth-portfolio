@@ -92,16 +92,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vineethjaisal&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineethjaisal&theme=tokyonight" alt="streak stats" />
-</p>
-
----
-
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vineeth-jaisal-8b1308226/" target="_blank">
